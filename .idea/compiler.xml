@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ferry-security-app" />
+        <module name="ferry-security-browser" />
+        <module name="ferry-security-core" />
+        <module name="ferry-security-demo" />
+        <module name="ferrysecurityapp" />
+        <module name="ferrysecuritybrowser" />
+        <module name="ferrysecuritycore" />
+        <module name="ferrysecuritydemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ferry-security" target="1.8" />
+      <module name="ferry-security-app" target="1.8" />
+      <module name="ferry-security-browser" target="1.8" />
+      <module name="ferry-security-core" target="1.8" />
+      <module name="ferry-security-demo" target="1.8" />
+      <module name="ferrysecurity" target="1.8" />
+      <module name="ferrysecurityapp" target="1.8" />
+      <module name="ferrysecuritybrowser" target="1.8" />
+      <module name="ferrysecuritycore" target="1.8" />
+      <module name="ferrysecuritydemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
